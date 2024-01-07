@@ -1,18 +1,25 @@
 {
   "files": {
     "main.css": "/prestige-family-clone/static/css/main.c7f70c02.chunk.css",
-    "main.js": "/prestige-family-clone/static/js/main.af621a7b.chunk.js",
-    "main.js.map": "/prestige-family-clone/static/js/main.af621a7b.chunk.js.map",
-    "runtime~main.js": "/prestige-family-clone/static/js/runtime~main.95ce0d9a.js",
-    "runtime~main.js.map": "/prestige-family-clone/static/js/runtime~main.95ce0d9a.js.map",
-    "static/js/2.832cf6ee.chunk.js": "/prestige-family-clone/static/js/2.832cf6ee.chunk.js",
-    "static/js/2.832cf6ee.chunk.js.map": "/prestige-family-clone/static/js/2.832cf6ee.chunk.js.map",
-    "static/js/3.bd282c0b.chunk.js": "/prestige-family-clone/static/js/3.bd282c0b.chunk.js",
-    "static/js/3.bd282c0b.chunk.js.map": "/prestige-family-clone/static/js/3.bd282c0b.chunk.js.map",
+    "main.js": "/prestige-family-clone/static/js/main.2e845057.chunk.js",
+    "main.js.map": "/prestige-family-clone/static/js/main.2e845057.chunk.js.map",
+    "runtime-main.js": "/prestige-family-clone/static/js/runtime-main.5d3c8e65.js",
+    "runtime-main.js.map": "/prestige-family-clone/static/js/runtime-main.5d3c8e65.js.map",
+    "static/js/2.49658fe2.chunk.js": "/prestige-family-clone/static/js/2.49658fe2.chunk.js",
+    "static/js/2.49658fe2.chunk.js.map": "/prestige-family-clone/static/js/2.49658fe2.chunk.js.map",
+    "static/js/3.1422bd5f.chunk.js": "/prestige-family-clone/static/js/3.1422bd5f.chunk.js",
+    "static/js/3.1422bd5f.chunk.js.map": "/prestige-family-clone/static/js/3.1422bd5f.chunk.js.map",
     "index.html": "/prestige-family-clone/index.html",
-    "precache-manifest.725761e80e2380d9ca4381e0522bc807.js": "/prestige-family-clone/precache-manifest.725761e80e2380d9ca4381e0522bc807.js",
+    "precache-manifest.293e6bad5d9fa9a757120ea7ec97569f.js": "/prestige-family-clone/precache-manifest.293e6bad5d9fa9a757120ea7ec97569f.js",
     "service-worker.js": "/prestige-family-clone/service-worker.js",
     "static/css/main.c7f70c02.chunk.css.map": "/prestige-family-clone/static/css/main.c7f70c02.chunk.css.map",
+    "static/js/2.49658fe2.chunk.js.LICENSE.txt": "/prestige-family-clone/static/js/2.49658fe2.chunk.js.LICENSE.txt",
     "static/media/home_1.png": "/prestige-family-clone/static/media/home_1.73b7427f.png"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d3c8e65.js",
+    "static/js/2.49658fe2.chunk.js",
+    "static/css/main.c7f70c02.chunk.css",
+    "static/js/main.2e845057.chunk.js"
+  ]
 }
