@@ -1,0 +1,78 @@
+/* src/App.css */
+
+header {
+  position: relative;
+  color: white;
+  text-align: center;
+  padding: 50px 20px; /* Adjust padding as needed */
+  background-size: cover; /* Cover the entire header area */
+  background-position: center; /* Center the image in the header */
+  background-repeat: no-repeat; /* Do not repeat the image */
+}
+
+.header-content {
+  position: relative;
+  z-index: 2;
+}
+
+header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5); /* Black overlay with 50% opacity */
+  z-index: 1;
+}
+
+h1 {
+  font-size: 2.5rem; /* Adjust size as needed */
+  font-family: "Roboto", sans-serif; /* Use a modern font */
+  margin-bottom: 20px;
+}
+
+.nav-link {
+  font-family: "Roboto", sans-serif; /* Use a modern font */
+  margin: 0 10px; /* Adjust spacing as needed */
+  font-size: 1rem;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.2
+  ); /* Optional: for better visibility */
+  padding: 10px 15px; /* Optional: for better visibility */
+  border-radius: 5px; /* Optional: for rounded corners */
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Add this to your main CSS file */
+
+section {
+  border: 1px solid #ccc; /* Thin light grey border */
+  padding: 20px;
+  margin: 20px 0; /* Add some space between sections */
+  text-align: center; /* Center the text inside the section */
+}
+
+/* You might also want to ensure the rest of the content is well-spaced and centered */
+h2,
+h3,
+p,
+body {
+  margin-bottom: 15px; /* Adds space between text elements */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  .nav-link {
+    padding: 5px 10px;
+    font-size: 0.8rem;
+  }
+}
