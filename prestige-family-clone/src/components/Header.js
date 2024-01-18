@@ -11,15 +11,10 @@ function Header() {
     >
       <div className="header-content">
         <h1>Assets Recovery 5.0</h1>
-        <nav>
-          <a href="#link1" className="nav-link">
-            Home
-          </a>
-          <a href="#link2" className="nav-link">
-            Contact
-          </a>
-          {/* other links */}
-        </nav>
+        <h4>We are here to assist you!</h4>
+        <h4>
+          It's your Assets. <strong>Claim it</strong>
+        </h4>
       </div>
     </header>
   );

@@ -18,6 +18,7 @@ export default class SimpleSlider extends Component {
       <section>
         <div id="testimonials">
           <h2> Testimonials</h2>
+          <h4>Some of the clients we've helped.</h4>
           <Slider {...settings}>
             <div>
               <h3>
