@@ -1,4 +1,7 @@
 /* src/App.css */
+a {
+  text-decoration: none;
+}
 
 header {
   position: relative;
